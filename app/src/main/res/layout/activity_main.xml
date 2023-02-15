@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#dcf3ff"
+    android:weightSum="7"
+    tools:context=".MainActivity">
+
+    <AnalogClock
+        android:layout_weight="2"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:layout_marginBottom="10dp"
+        />
+
+
+ <Button
+     android:layout_weight=".5"
+     android:layout_gravity="center_horizontal"
+     android:id="@+id/bdbuttonid"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:text="@string/bd"
+     android:backgroundTint="#52bf90"
+     android:textSize="20sp"
+     android:textStyle="bold"
+     android:drawableLeft="@drawable/bangladesh"
+     android:layout_margin="5dp"
+     />
+
+    <Button
+        android:layout_weight=".5"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/indbuttonid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ind"
+        android:backgroundTint="#FF9800"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:drawableLeft="@drawable/india"
+        android:layout_margin="5dp"
+        />
+
+
+    <Button
+        android:layout_weight=".5"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/pakbuttonid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pak"
+        android:backgroundTint="#007705"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:drawableLeft="@drawable/pakistan"
+        android:layout_margin="5dp"
+        />
+
+
+    <Button
+        android:layout_weight=".5"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/sributtonid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sri"
+        android:backgroundTint="#0029A3"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:drawableLeft="@drawable/srilanka"
+        android:layout_margin="5dp"
+        />
+
+
+    <Button
+        android:layout_weight=".5"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/nepbuttonid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nep"
+        android:backgroundTint="#F44336"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:drawableLeft="@drawable/nepal"
+        android:layout_margin="5dp"
+        />
+
+
+</LinearLayout>

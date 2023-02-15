@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Country Profile</string>
+    <string name="bd">Bangladesh</string>
+    <string name="ind">India</string>
+    <string name="pak">Pakistan</string>
+    <string name="sri">Sri-lanka</string>
+    <string name="nep">Nepal</string>
+    <string name="titletext">EXIT</string>
+    <string name="msgtext">Do you want to exit?</string>
+    <string name="bdtext">Destination Bangladesh, a Nations Online country profile of the independent nation in southern Asia. Bangladesh came into being as the Peoples Republic of Bangladesh when Bengali East Pakistan seceded from the union with (West) Pakistan in 1971. The country is situated in the fertile plains of the Ganges (Padma) River delta and borders the Bay of Bengal. Bangladesh borders various states of India in the west, north and east and has a short border with Myanmar (Burma) in the southeast. The country occupies an area of 143,998 km², compared, it is slightly larger than Greece (131,957 km²) or slightly smaller than the US state of Iowa. Bangladesh is one of the most densely populated countries in the world with an estimated 171 million people (in 2021). The majority of its population are followers of Islam (nearly 90%). The capital and largest city is Dhaka. Spoken language is Bangla (or Bengali by 98%).
+\n  \n Official Name: Gano Projatontri Bangladesh \n
+    short form: Bangladesh \n
+    intl long form: The Peoples Republic of Bangladesh \n
+    former: East Pakistan \n
+    ISO Country Code: bd, BGD \n
+    Time: Local Time = UTC +6h \n
+    Country Calling Code: +880 \n
+    Capital City: Dhaka (pop. 12 million, metro area) </string>
+
+
+    <string name="indtext">Destination India, a Nations Online country profile on the vast nation in South and Central Asia that occupies most of the Indian subcontinent. The country borders the Himalayas in the north, the Arabian Sea in the west, the Bay of Bengal in the east, and the Laccadive Sea in the south. India shares borders with Bangladesh, Bhutan, Myanmar (Burma), China (Xizang - Tibet Autonomous Region), Nepal, and Pakistan, and it shares maritime borders with Indonesia, the Maldives, Sri Lanka, and Thailand. India is the second-most populous country in the world (after China), with an estimated population of 1.37 billion people (in 2020). The country is subdivided into 29 states and seven Union Territories. With an area of 3,287,263 km², India is the 7th largest country in the world, about one-third the size of the USA. Capital and largest urban area of India is (New) Delhi; the second largest city is Mumbai. The official languages are Hindi-Urdu and English (the Indian Constitution lists 22 recognized languages). \n \n
+        Official Name: Bharat Ganarajya \n
+        local short form: Bharat \n
+        Intl conventional long form: Republic of India \n
+        Intl conventional short form: India \n
+        ISO Country Code: in, IND \n
+        Local Time = UTC +5:30h \n
+        Country Calling Code: +91 \n
+        Capital City: Delhi (Dilli) \n
+        The Municipality of Delhi (pop. 21 million). \n
+    </string>
+
+    <string name="paktext">Destination Pakistan, a Nations Online country profile of the South Asian nation, formerly part of the British Empire in India. The Islamic Republic is situated between the Karakoram mountain range, the Himalayas and China in the northeast, Afghanistan in the northwest, Iran in the southwest, the Arabian Sea in the south, and India in the east. The country occupies an area of 796,095 km²; compared, it is somewhat larger than Turkey (783,562 km²) or slightly less than twice the size of the U.S. state of California. It would fit four times in India, its neighbor and arch-enemy. The worlds fifth most populous country (in 2022) is home to more than 228 million people. Pakistans capital is Islamabad. The most important port, the largest city and the biggest economic center of the country is Karachi. Pakistans second-largest city is Lahore. Other major Pakistani cities are Faisalabad, Rawalpindi, Multan, Gujranwala, Hyderabad (Pakistan), Peshawar, and Quetta. Spoken languages are Urdu (a form of Hindustani), English (both official), Punjabi, Sindhi, Dari, Balochi, and Pashto. Main religion is Islam (96%). \n \n
+    Official Name: Islami Jamhooriya-e-Pakistan \n
+    short form: Pakistan \n
+    intl long form: Islamic Republic of Pakistan \n
+    ISO Country Code: pk, PAK \n
+    Time: Local Time = UTC +5h \n
+    Country Calling Code: +92 \n
+    Capital City: Islamabad (pop. 1 million) and adjacent Rawalpindi (pop. 1.4 million) comprise the national capital area with a combined population of 3.7 million. \n
+    Other Cities: Karachi (9 million), Lahore (5 million), Faisalabad (2 million) and Hyderabad (1 million) \n
+    </string>
+
+    <string name="sritext">Destination Sri Lanka, an island nation in the Indian Ocean, located between the Laccadive Sea in west and the Bay of Bengal in east. The island is situated about 30 km (19 mi) south east of the southern coast of India. Sri Lanka consists of a main island and a number of smaller islands. Until 1972 the country was known as Ceylon. The islands cover an area of 65,610 km², compared the country is about 1.5 times the size of Denmark, or slightly larger than the U.S. state West Virginia. Sri Lanka has a population of 21.2 million people (in 2016), capital is Sri Jayawardenepura Kotte, a satellite city of Sri Lankas largest city Colombo. Spoken languages are Sinhala (official and national language) 74%, Tamil (a national language) 18%, other 8%, about 10 % of the population speak English as a second language.
+\n \n
+    Official Name: Socialist Republic of Sri Lanka \n
+    short form: Sri Lanka, in Tamil: Ilankai \n
+    former: Serendib, Ceylon \n
+    ISO Country Code: lk, lka \n
+    Local Time = UTC +6h \n
+    Country Calling Code: +94 \n
+    Capital: Colombo (pop. 1.3 million--urban area) \n
+    (former names: Kalan-totta, Kola-amba-thota) \n
+    The city of Sri Jayewardenepura-Kotte is the officially designated capital city and is the seat of Sri Lankas Parliament, but it is currently just the administrative center.
+    Other Cities: Dehiwala-Mount Lavinia (210 000), Moratuwa (200 000), Kandy (150 000), Jaffna (100 000), Galle (80 000), Anuradhapura (50 000).
+    </string>
+
+
+    <string name="neptext">Destination Nepal, a Nations Online country profile of the former kingdom in the Himalayas in South Asia. The landlocked, mountainous nation borders the Indian states of Uttarakhand in the west, Uttar Pradesh in the south, Bihar in the southeast and West Bengal and Sikkim in the east. In the north, it shares a border with Xizang, the autonomous region of China known as Tibet. With an area of 147,181 km², Nepal is slightly larger than 1.5 times the size of Portugal or somewhat larger than the U.S. state of Arkansas. Nepal has a population of 30.3 million (2021). The largest city and the national capital is Kathmandu. The language spoken is Nepali; about half of the population speaks the official language Nepali, the rest use one of the more than 120 other Tibeto-Burman languages. The main religions are Hinduism (81%) and Buddhism (9%).
+    \n \n
+        Official Name: Sanghiya Loktāntrik Ganatantra Nepāl \n
+        Federal Democratic Republic of Nepal \n
+        short form: Nepal \n
+        formerly: Kingdom of Nepal (Nepal Adhirajya) \n
+        ISO Country Code: np, NPL \n
+        Time: Local Time = UTC + 5:45h \n
+        Country Calling Code: +977 \n
+        Capital City: Kathmandu (pop. 800 K) \n
+        Other Cities: Biratnagar, Patan, Pokhara, Birgunj, Dharan, Nepalganj.
+
+    </string>
+
+</resources>
+
+
