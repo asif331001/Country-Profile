@@ -93,5 +93,20 @@
         android:layout_margin="5dp"
         />
 
+    <Button
+        android:layout_weight=".5"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/bhubuttonid"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nep"
+        android:backgroundTint="#FFC107"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:drawableLeft="@drawable/bhutan"
+        android:layout_margin="5dp"
+        />
+
 
 </LinearLayout>

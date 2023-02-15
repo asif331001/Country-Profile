@@ -59,5 +59,11 @@ public class ProfileActivity extends AppCompatActivity {
             imageView.setImageResource(R.drawable.nepmap);
             textView.setText(R.string.neptext );
         }
+
+        if (countryName.equals("Bhutan")){
+
+            imageView.setImageResource(R.drawable.bhumap);
+            textView.setText(R.string.bhutext );
+        }
     }
 }

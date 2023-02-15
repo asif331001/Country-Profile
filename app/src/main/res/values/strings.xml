@@ -5,6 +5,7 @@
     <string name="pak">Pakistan</string>
     <string name="sri">Sri-lanka</string>
     <string name="nep">Nepal</string>
+    <string name="bhu">Bhutan</string>
     <string name="titletext">EXIT</string>
     <string name="msgtext">Do you want to exit?</string>
     <string name="bdtext">Destination Bangladesh, a Nations Online country profile of the independent nation in southern Asia. Bangladesh came into being as the Peoples Republic of Bangladesh when Bengali East Pakistan seceded from the union with (West) Pakistan in 1971. The country is situated in the fertile plains of the Ganges (Padma) River delta and borders the Bay of Bengal. Bangladesh borders various states of India in the west, north and east and has a short border with Myanmar (Burma) in the southeast. The country occupies an area of 143,998 km², compared, it is slightly larger than Greece (131,957 km²) or slightly smaller than the US state of Iowa. Bangladesh is one of the most densely populated countries in the world with an estimated 171 million people (in 2021). The majority of its population are followers of Islam (nearly 90%). The capital and largest city is Dhaka. Spoken language is Bangla (or Bengali by 98%).
@@ -33,7 +34,7 @@
     <string name="paktext">Destination Pakistan, a Nations Online country profile of the South Asian nation, formerly part of the British Empire in India. The Islamic Republic is situated between the Karakoram mountain range, the Himalayas and China in the northeast, Afghanistan in the northwest, Iran in the southwest, the Arabian Sea in the south, and India in the east. The country occupies an area of 796,095 km²; compared, it is somewhat larger than Turkey (783,562 km²) or slightly less than twice the size of the U.S. state of California. It would fit four times in India, its neighbor and arch-enemy. The worlds fifth most populous country (in 2022) is home to more than 228 million people. Pakistans capital is Islamabad. The most important port, the largest city and the biggest economic center of the country is Karachi. Pakistans second-largest city is Lahore. Other major Pakistani cities are Faisalabad, Rawalpindi, Multan, Gujranwala, Hyderabad (Pakistan), Peshawar, and Quetta. Spoken languages are Urdu (a form of Hindustani), English (both official), Punjabi, Sindhi, Dari, Balochi, and Pashto. Main religion is Islam (96%). \n \n
     Official Name: Islami Jamhooriya-e-Pakistan \n
     short form: Pakistan \n
-    intl long form: Islamic Republic of Pakistan \n
+    int'l long form: Islamic Republic of Pakistan \n
     ISO Country Code: pk, PAK \n
     Time: Local Time = UTC +5h \n
     Country Calling Code: +92 \n
@@ -68,6 +69,18 @@
         Capital City: Kathmandu (pop. 800 K) \n
         Other Cities: Biratnagar, Patan, Pokhara, Birgunj, Dharan, Nepalganj.
 
+    </string>
+
+    <string name="bhutext">Adventure Bhutan, a virtual guide to the "land of the dragon", officially the Kingdom of Bhutan, a small, land-locked nation in Asia, located in the eastern Himalaya mountains south of China (Xizang - Tibet Autonomous Region), bordering the Indian states of Sikkim, West Bengal, Assam and Arunachal Pradesh, it is also bordered by Nepal and Bangladesh. The country controls several key Himalayan mountain passes. Bhutan occupies an area of 38,394 km² making it somewhat smaller than Switzerland or about half the size of the US state of Indiana. Bhutans landscape is mostly mountainous with some fertile valleys and savanna. The country has a multiethnic population of 760,000 inhabitants (in 2015). There are three main ethnic groups in Bhutan, the Tshanglas (or Sharchop) are considered the aboriginal inhabitants of eastern Bhutan, the Ngalops, people of Tibetan origin who migrated to Bhutan, and the Lhotshampas, a group of Nepali language-speaking Bhutanese people. Official language is Dzongkha, a language closely related to Tibetan and Nepali. Capital and largest city is Thimphu
+    \n \n
+        Official Name: Druk-yul or Druk Tsendhen, "land of the thunder dragon" \n
+        intl long form: Kingdom of Bhutan \n
+        intl short form: Bhutan \n
+        ISO Country Code: bt, BTN \n
+        Time: Local Time = UTC +6h \n
+        Country Calling Code: +975 \n
+        Capital City: Thimphu (approx. 55,000) \n
+        Other Cities: Paro, Phoentsholing, Punakha, Bumthong. \n
     </string>
 
 </resources>

@@ -11,7 +11,7 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
-    private Button bdButton, indButton, pakButton, sriButton, nepButton;
+    private Button bdButton, indButton, pakButton, sriButton, nepButton, bhuButton;
 
     private Intent intent;
 
@@ -25,12 +25,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         pakButton = (Button) findViewById(R.id.pakbuttonid);
         sriButton = (Button) findViewById(R.id.sributtonid);
         nepButton = (Button) findViewById(R.id.nepbuttonid);
+        bhuButton = (Button) findViewById(R.id.bhubuttonid);
 
         bdButton.setOnClickListener(this);
         indButton.setOnClickListener(this);
         pakButton.setOnClickListener(this);
         sriButton.setOnClickListener(this);
         nepButton.setOnClickListener(this);
+        bhuButton.setOnClickListener(this);
     }
 
     @Override
@@ -66,6 +68,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
             intent = new Intent(MainActivity.this,ProfileActivity.class);
             intent.putExtra("name","Nepal");
+            startActivity(intent);
+        }
+
+        if (view.getId()==R.id.bhubuttonid){
+
+            intent = new Intent(MainActivity.this,ProfileActivity.class);
+            intent.putExtra("name","Bhutan");
             startActivity(intent);
         }
 
